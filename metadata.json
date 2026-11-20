@@ -1,0 +1,6 @@
+{
+  "name": "LUMARK PROPIEDADES — CRM Inmobiliario",
+  "description": "CRM inmobiliario profesional de ZORRO TECH para comercializacion de propiedades, rentas, prospectos, agenda, expedientes, mensajeria y reportes en Mexico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
